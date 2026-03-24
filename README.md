@@ -35,7 +35,7 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎮 <b>Game Developer:</b> Experienced in Unity & C#, currently developing <b>HELLO IT HEAR ME</b> (a horror/management simulation game with complex UI and event systems).</li>
+        <li>🎮 <b>Game Developer:</b> Experienced in Unity & C#, currently developing <b>HELLO' IT HEAR ME</b> (a horror/management simulation game with complex UI and event systems).</li>
         <li>💻 <b>Full-Stack Engineer:</b> Building dashboards and web apps utilizing modern tools like React, Vue, Node.js, Vercel Serverless, and Tailwind CSS.</li>
         <li>⚙️ <b>Automation & Tooling:</b> Creating utility scripts and bots, ranging from Python GUIs for token extraction to automated LINE Messaging notifications via Google Apps Script.</li>
         <li>🌱 <b>Currently learning:</b> Serverless Architectures and Game System Architectures.</li>
