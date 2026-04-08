@@ -76,7 +76,7 @@
 
 | 🎮 [**HELLO IT HEAR ME**](https://github.com/ManaphatDev) | 🎛️ [**Antigravity Multi-ID Quota Dashboard**](https://github.com/ManaphatDev/Antigravity-Multi-ID-Quota) | 🐺 [**Werewolf Moderator Tool**](https://github.com/ManaphatDev/Werewolf-Moderator-Tool) |
 | :--- | :--- | :--- |
-| An immersive desktop-simulation survival game developed in Unity C#. Features custom UI management systems, time-scale manipulation, dynamic storytelling, and complex animations. | A standalone dashboard built with React, Vite, and Tailwind CSS. Features a native process scanner and log-parsing to securely extract tokens and track Multi-ID quotas without third-party extensions. | A static web application for managing local Werewolf games. Highlights include role presets in localStorage, Night/Day phase tracking, and built-in discussion timers. |
+| An immersive desktop-simulation survival game developed in Unity C#. Features custom UI management systems, time-scale manipulation, dynamic storytelling, and complex animations. | A custom VS Code extension built with TypeScript. Features a native process scanner and log-parsing to securely extract tokens and track Multi-ID quotas independently. | A static web application for managing local Werewolf games. Highlights include role presets in localStorage, Night/Day phase tracking, and built-in discussion timers. |
 
 ---
 
