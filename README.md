@@ -35,7 +35,7 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎮 <b>Game Developer:</b> Experienced in Unity & C#, currently developing <b>HELLO, IT HEAR ME?</b> (a horror/management simulation game with complex UI and event systems).</li>
+        <li>🎮 <b>Game Developer:</b> Experienced in Unity & C#, currently developing <b>HELLO IT HEAR ME</b> (a horror/management simulation game with complex UI and event systems).</li>
         <li>💻 <b>Full-Stack Engineer:</b> Building dashboards and web apps utilizing modern tools like React, Vue, Node.js, Vercel Serverless, and Tailwind CSS.</li>
         <li>⚙️ <b>Automation & Tooling:</b> Creating utility scripts and bots, ranging from Python GUIs for token extraction to automated LINE Messaging notifications via Google Apps Script.</li>
         <li>🌱 <b>Currently learning:</b> Serverless Architectures and Game System Architectures.</li>
@@ -74,9 +74,9 @@
 
 ### 📂 Featured Projects
 
-| 🎮 [**HELLO IT HEAR ME**](https://github.com/ManaphatDev) | 🎛️ [**Antigravity Multi-ID Dashboard**](https://github.com/ManaphatDev/Antigravity-Multi-ID-Manager) | 🐺 [**Werewolf Moderator Tool**](https://github.com/ManaphatDev/Werewolf-Moderator-Tool) |
+| 🎮 [**HELLO IT HEAR ME**](https://github.com/ManaphatDev) | 🎛️ [**Antigravity Multi-ID Quota Dashboard**](https://github.com/ManaphatDev/Antigravity-Multi-ID-Quota) | 🐺 [**Werewolf Moderator Tool**](https://github.com/ManaphatDev/Werewolf-Moderator-Tool) |
 | :--- | :--- | :--- |
-| An immersive desktop-simulation survival game developed in Unity C#. Features custom UI management systems, time-scale manipulation, dynamic storytelling, and complex animations. | A comprehensive dashboard built with React, Vite, Tailwind CSS, and Vercel KV with Serverless Functions. Handles multiple account management and token extraction. | A static web application for managing local Werewolf games. Highlights include role presets in localStorage, Night/Day phase tracking, and built-in discussion timers. |
+| An immersive desktop-simulation survival game developed in Unity C#. Features custom UI management systems, time-scale manipulation, dynamic storytelling, and complex animations. | A standalone dashboard built with React, Vite, and Tailwind CSS. Features a native process scanner and log-parsing to securely extract tokens and track Multi-ID quotas without third-party extensions. | A static web application for managing local Werewolf games. Highlights include role presets in localStorage, Night/Day phase tracking, and built-in discussion timers. |
 
 ---
 
